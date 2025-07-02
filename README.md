@@ -1,8 +1,8 @@
-# People Manager App
+# The Right Doctors Frontend
 
 ## Overview
 
-The People Manager App is a Single Page Application (SPA) built with Angular 7/8 for managing a list of people. It provides a modern, responsive user interface leveraging Angular Material Design and integrates seamlessly with a Node.js/MongoDB RESTful API for performing CRUD operations on person data.
+The Right Doctors Frontend is a Single Page Application (SPA) built with Angular 7/8 for managing a list of people. It provides a modern, responsive user interface leveraging Angular Material Design and integrates seamlessly with a Node.js/MongoDB RESTful API for performing CRUD operations on person data.
 
 ## Features
 
@@ -14,7 +14,7 @@ The People Manager App is a Single Page Application (SPA) built with Angular 7/8
 ## Project Structure
 
 ```
-people-manager-app
+frontendRightDoctors
 ├── src
 │   ├── app
 │   │   ├── core
@@ -59,7 +59,7 @@ people-manager-app
 
 2. Navigate to the project directory:
    ```
-   cd people-manager-app
+   cd frontendRightDoctors
    ```
 
 3. Install the dependencies:
