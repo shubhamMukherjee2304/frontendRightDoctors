@@ -1,0 +1,17 @@
+/* Styles for the AppComponent */
+
+:host {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+}
+
+mat-toolbar {
+  background: #3f51b5;
+  color: white;
+}
+
+main {
+  flex: 1;
+  padding: 20px;
+}
